@@ -1,0 +1,17 @@
+﻿* The Helpers have a number of students. Each student has an ID as an identifier, function (student, mentor, team quiz, instructor), Name, Phone, E-mail, University, College, Department, Handle, Group number, Gender, Birth date, Level, Address, Scientific division, and whether has a PC or not.
+
+
+* Each group has a leader. Each leader has an ID as an identifier, Name, Phone, E-mail, Gender, Level, Handle, and Department.
+
+
+* Every week each student takes a quiz. Each quiz has a quiz number, number of students, date and average of degrees.
+
+
+* A  leader can lead one or more students.
+
+
+* Each student takes a quiz, and has a degree in quiz.
+
+
+* Student quiz participation: quiz number, Student ID, degree.
+________________
